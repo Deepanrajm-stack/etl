@@ -1,0 +1,4 @@
+{
+    "source_table": "account_ct",
+    "target_table": "account_tgt_ct"
+}
